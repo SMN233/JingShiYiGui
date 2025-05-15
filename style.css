@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
 
+.hong {
+    color:red;
+}
+
+.lv2 {
+    color:lawngreen;
+}
+
 .zong {
     color:saddlebrown;
 }
